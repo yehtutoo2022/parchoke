@@ -2,10 +2,11 @@
   {
     "title": "Mi Lain Da",
     "subtitle": "Par Choke Sayardaw",
-    "category": "Dhama",
+    "category": "Dhamma",
     "playlist": "My Playlist",
     "url": "https://drive.google.com/uc?export=download&id=1B0eqYkbh5Ptt48BWgEw0T03K8xJLPqZt",
-    "isFavorite": false
+    "isFavorite": false,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/78/Sayadaw_nandamalabhivamsa.jpg"
   },
   {
     "title": "Song 2",
@@ -13,14 +14,7 @@
     "category": "Rock",
     "playlist": "Rock Playlist",
     "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
-    "isFavorite": false
-  },
-  {
-    "title": "Podcast 1",
-    "subtitle": "Host 1",
-    "category": "Podcast",
-    "playlist": "My Playlist",
-    "url": "https://example.com/audio/podcast1.mp3",
-    "isFavorite": false
+    "isFavorite": false,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/78/Sayadaw_nandamalabhivamsa.jpg"
   }
 ]
