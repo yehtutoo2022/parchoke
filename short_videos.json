@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "title": "Butterfly",
+    "description": "A beautiful butterfly",
+    "category": "Nature",
+    "isFavorite": true,
+    "fileUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4"
+  },
+  {
+    "id": "2",
+    "title": "Big Buck Bunny",
+    "description": "A funny bunny",
+    "category": "Animation",
+    "isFavorite": false,
+    "fileUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+  }
+]
