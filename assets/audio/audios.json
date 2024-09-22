@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Song 1",
+    "subtitle": "Artist 1",
+    "category": "Pop",
+    "playlist": "My Playlist",
+    "url": "https://drive.google.com/uc?export=download&id=1B0eqYkbh5Ptt48BWgEw0T03K8xJLPqZt",
+    "isFavorite": false
+  },
+  {
+    "title": "Song 2",
+    "subtitle": "Artist 2",
+    "category": "Rock",
+    "playlist": "Rock Playlist",
+    "url": "https://drive.google.com/uc?export=download&id=1B0eqYkbh5Ptt48BWgEw0T03K8xJLPqZt",
+    "isFavorite": false
+  },
+  {
+    "title": "Podcast 1",
+    "subtitle": "Host 1",
+    "category": "Podcast",
+    "playlist": "My Playlist",
+    "url": "https://example.com/audio/podcast1.mp3",
+    "isFavorite": false
+  }
+]
